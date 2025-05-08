@@ -1,3 +1,6 @@
+# Python 3.8 version
+This fork of RF-DETR makes the code compatible with python 3.8
+
 # RF-DETR: SOTA Real-Time Object Detection Model
 
 [![version](https://badge.fury.io/py/rfdetr.svg)](https://badge.fury.io/py/rfdetr)
